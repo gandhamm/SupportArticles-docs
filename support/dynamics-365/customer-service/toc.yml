@@ -175,3 +175,5 @@
               href: omnichannel-for-customer-service/greeting-message-delay-agent-connection.md 
             - name: Use diagnostic messages to troubleshoot call issues
               href: omnichannel-for-customer-service/use-diagnostic-messages-in-call-issues.md 
+            - name: Test microphone, speaker, and make a test call to troubleshoot device issues
+              href: troubleshoot-device-issues.md 
